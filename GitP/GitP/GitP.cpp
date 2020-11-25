@@ -1,11 +1,10 @@
-// GitP.cpp : Defines the entry point for the console application.
-//
-
 #include "stdafx.h"
-
-
-int _tmain(int argc, _TCHAR* argv[])
+#include <iostream>
+#include "function.h"
+using namespace std;
+int main()
 {
+	system("pause");
 	return 0;
 }
 
